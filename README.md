@@ -1,1 +1,1 @@
-# NLP-NamedEntityREcognitionModel
+# NLP-Named Entity Recognition Model
